@@ -1,0 +1,50 @@
+.container {
+    margin-top: 2rem;
+    padding-bottom: 3rem;
+  }
+  
+  .container .heading {
+    font-size: 2.5rem;
+    font-weight: 300;
+    color: #4d5bce;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    text-align: center;
+  }
+  
+  .container .aboutText {
+    padding: 0 15%;
+    color: #607b96;
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+  
+  .container .work {
+    margin-bottom: 3rem;
+    padding: 0 15%;
+    margin-top: 3rem;
+    color: #607b96;
+  }
+  
+  .container .work .workTitle {
+    font-size: 1.5rem;
+    font-weight: 300;
+  }
+  
+  .container .work .workCompany {
+    color: #4d5bce;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+  }
+  
+  .container .work .workDescription {
+    text-align: justify;
+  }
+  
+  .container .contact {
+    margin-bottom: 3rem;
+    padding: 0 15%;
+    margin-top: 3rem;
+    color: #607b96;
+  }
+  
