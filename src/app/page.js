@@ -8,7 +8,7 @@ import {FiChevronRight} from "react-icons/fi"
 export default function Home() {
   const resumeLink = (
     <a
-      href="/BPJ_Resume.pdf"
+      href="/Bhanu_Resume.pdf"
       target="_blank"
       rel="noopener noreferrer"
       style={{ color: "#E99287" }}
@@ -38,7 +38,7 @@ export default function Home() {
             const &nbsp;<span style={{ color: "#43D9AD" }}>resumeLink</span>{" "}
             &nbsp;= &nbsp;
             <a
-              href="/BPJ_Resume.pdf"
+              href="/Bhanu_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               style={{ color: "#E99287" }}
